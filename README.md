@@ -1,6 +1,6 @@
 🎯 Hack The Box - Writeups & Machine Solutions
 
-Bienvenido/a a mi repositorio de resoluciones y writeups de máquinas de Hack The Box (HTB).
+Bienvenido a mi repositorio de resoluciones y writeups de máquinas de Hack The Box (HTB).
 
 El objetivo de este repositorio es documentar mi proceso de aprendizaje, metodologías de pentesting y técnicas de explotación en entornos controlados, sirviendo como registro de mi progreso continuo en ciberseguridad.
 
